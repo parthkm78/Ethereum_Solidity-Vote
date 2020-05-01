@@ -14,6 +14,9 @@ https://en.wikipedia.org/wiki/Solidity
 #  What is smart contract?
 Smart contracts are lines of code that are stored on a blockchain and automatically execute when predetermined terms and conditions are met. At the most basic level, they are programs that run as they’ve been set up to run by the people who developed them. The benefits of smart contracts are most apparent in business collaborations, in which they are typically used to enforce some type of agreement so that all participants can be certain of the outcome without an intermediary’s involvement.
 
+# What is DApp?
+Decentralized Nature: As the name suggests, decentralized applications stores everything on a decentralized blockchain or any cryptographic technology to save the app from perils of centralized authority and emphasize on autonomous nature.
+
 # File - Voter.sol
 It include very basic voting fuctionality. One user can vote by id of candidate as much he/she want per address.
 
