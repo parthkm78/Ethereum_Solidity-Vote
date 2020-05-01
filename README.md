@@ -28,6 +28,4 @@ It handles below restriction
   3. it checks all parameters send by users are correct then only proceed , if  not correct or anything goes wrong then it automatically refund remainig gas to consumers.
  
 # Download remix IDE or open online remix IDE : https://remix.ethereum.org/
-Create new file & copy - paste code.
-Complie code and deploy contract.
-All the information are provided on remix_vote.docs
+refer Vote_Solidity.docx to create & Deploy smart contracts(DApp)
