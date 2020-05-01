@@ -1,6 +1,7 @@
 # Ethereum_Solidity
 This repository includes very basic Vote fuctionalities refrence on Ethereum Solidity.
 This project also include basic programing in solidity.
+Please read README.md first & refer reremix_vote.docs to create & Deploy smart contracts
 
 # What is Ethereum?
 Ethereum is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality
