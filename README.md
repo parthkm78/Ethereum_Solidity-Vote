@@ -1,4 +1,4 @@
-Please read README.md first if you don't know basic consepts & refer Vote_Solidity.docx to create & Deploy smart contracts
+Please read README.md first if you don't know basic consepts otherwise refer Vote_Solidity.docx to create & Deploy smart contracts
 
 # Ethereum_Solidity
 This repository includes very basic Vote fuctionalities refrence on Ethereum Solidity.
